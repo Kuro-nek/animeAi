@@ -42,8 +42,7 @@ export default function App() {
     <div className="app-root">
       <header className="app-header">
         <div className="app-header-content">
-          <img src="/vite.svg" alt="logo" className="logo" />
-          <span className="app-title">OtakuSage Chat</span>
+          <span className="app-title">Animeworse AI</span>
         </div>
       </header>
       <main className="app-main">
